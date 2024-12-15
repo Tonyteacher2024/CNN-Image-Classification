@@ -56,7 +56,7 @@ The repository contains the following files:
 - **`CNN for Image Classification.ipynb`**: Jupyter Notebook with the code for building, training, and testing the CNN model.
 - **`Read Me.txt`**: Documentation providing an overview of the project, model usage, and execution steps.
 
-Dataset:
+### Dataset:
 
 Due to the large size of the dataset, it is hosted externally. You can download the dataset from the following link:
  [Download Dataset from Google Drive](https://drive.google.com/drive/folders/1-UiYMgnw1AMJjNACfqFGjEQE8GpSGhVI?usp=sharing)
