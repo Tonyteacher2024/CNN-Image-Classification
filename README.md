@@ -46,13 +46,7 @@ Hyperparameters, including the number of layers, kernel size, activation functio
 ---
 
 ## 5. Results <a name="results"></a>
-The trained model achieved the following performance metrics:
-
-- **Training Accuracy**: ~82.29%
-- **Validation Accuracy**: ~78.80%
-- **Test Accuracy**: ~78.80%.
-
-The model also performed well on single-image predictions, accurately classifying them as either a cat or a dog.
+The main findings of the code can be found at the post on Medium available here
 
 ---
 
