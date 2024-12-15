@@ -45,8 +45,8 @@ Hyperparameters, including the number of layers, kernel size, activation functio
 
 
 
-## 5. Results <a name="results"></a>
-The main findings of the code can be found at the post on Medium available here
+## 5. Results
+The main findings of the code can be found at the post on Medium available [here](https://medium.com/@linxiaotao/image-classification-using-convolutional-neural-networks-cnn-a-deep-learning-approach-for-cat-277c20218031)
 
 
 
