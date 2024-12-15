@@ -10,7 +10,7 @@ This project is implemented in Python using Jupyter Notebook. The required Pytho
 - Matplotlib
 
 
----
+
 
 ## 2. Project Motivation
 This project aims to leverage the power of CNNs to perform binary image classification. Specifically, it addresses the problem of classifying images of cats and dogs. The objectives of this project are:
@@ -21,7 +21,7 @@ This project aims to leverage the power of CNNs to perform binary image classifi
 
 By achieving these goals, the project demonstrates the practical application of CNNs in real-world classification tasks.
 
----
+
 
 ## 3. Dataset
 The dataset used in this project consists of:
@@ -31,7 +31,7 @@ The dataset used in this project consists of:
 
 The dataset was preprocessed to ensure all images are of consistent size. Additionally, data augmentation techniques were applied to enhance the generalization ability of the model.
 
----
+
 
 ## 4. Model Architecture
 The CNN model was built using TensorFlow's integrated Keras API. The architecture includes:
@@ -43,12 +43,12 @@ The CNN model was built using TensorFlow's integrated Keras API. The architectur
 
 Hyperparameters, including the number of layers, kernel size, activation functions, and dropout rates, were optimized for better performance.
 
----
+
 
 ## 5. Results <a name="results"></a>
 The main findings of the code can be found at the post on Medium available here
 
----
+
 
 ## 6. File Descriptions
 The repository contains the following files:
@@ -59,9 +59,9 @@ The repository contains the following files:
 - **`test_set`**: A directory containing images used both as a validation set and a test set.
 - **`single_prediction`**: A directory containing sample images for single-input predictions.
 
----
+
 
 ## 7. Licensing, Authors, Acknowledgements, etc.
 This project was developed for educational purposes, utilizing TensorFlow and Keras. All dataset images are used solely for demonstrating the capabilities of CNNs in binary classification tasks.
 
----
+
